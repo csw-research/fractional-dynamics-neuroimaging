@@ -1,0 +1,1 @@
+"""Fractional BOLD signal modeling."""
