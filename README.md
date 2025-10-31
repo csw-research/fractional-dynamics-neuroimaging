@@ -229,7 +229,7 @@ If you use this code, please cite:
 ```bibtex
 @software{fractional_neuroimaging_2024,
   title={Fractional Dynamics in Neuroimaging: Physics-Informed Neural Networks for Anomalous Diffusion},
-  author={Your Name},
+  author={Warioba, Chisondi S.},
   year={2024},
   url={https://github.com/csw-research/fractional-dynamics-neuroimaging}
 }
